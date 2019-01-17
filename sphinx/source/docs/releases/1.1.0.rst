@@ -1,0 +1,4 @@
+1.1.0
+=====
+
+Bokeh Version ``1.1.0`` (January 2019) primarily
