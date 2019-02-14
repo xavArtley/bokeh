@@ -143,3 +143,6 @@ export const UpdateMode: UpdateMode[] = ["replace", "append"]
 
 export type VerticalAlign = "top" | "middle" | "bottom"
 export const VerticalAlign: VerticalAlign[] = ["top", "middle", "bottom"]
+
+export type InfinityPosition = "screen_min" | "screen_max"
+export const InfinityPosition: InfinityPosition[] = ["screen_min", "screen_max"]

@@ -276,6 +276,7 @@ export const TickLabelOrientation = Enum(enums.TickLabelOrientation)
 export const TooltipAttachment = Enum(enums.TooltipAttachment)
 export const UpdateMode = Enum(enums.UpdateMode)
 export const VerticalAlign = Enum(enums.VerticalAlign)
+export const InfinityPosition = Enum(enums.InfinityPosition)
 
 //
 // DataSpec properties
@@ -369,3 +370,4 @@ export class NumberSpec extends DataSpec<number> {}
 export class StringSpec extends DataSpec<string> {}
 
 export class NullStringSpec extends DataSpec<string | null> {}
+
